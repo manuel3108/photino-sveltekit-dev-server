@@ -1,0 +1,4 @@
+wwwroot/*
+!wwwroot/.gitkeep
+bin/
+obj/
