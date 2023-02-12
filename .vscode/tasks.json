@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/HelloPhotino.NET.csproj",
+                "${workspaceFolder}/PhotinoSveltekitDevServer.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/HelloPhotino.NET.csproj",
+                "${workspaceFolder}/PhotinoSveltekitDevServer.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/HelloPhotino.NET.csproj"
+                "${workspaceFolder}/PhotinoSveltekitDevServer.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
